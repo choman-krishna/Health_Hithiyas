@@ -1,0 +1,43 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 15.648rem;
+}.add-file-jL8 {
+  width: 100%;
+  height: 22.5rem;
+  position: relative;
+}
+.add-file-jL8 .removebg-preview-1-HcY {
+  width: 15.6481rem;
+  height: 20rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.add-file-jL8 .add-file-psN {
+  width: 8.1rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 3.574rem;
+  top: 19.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #086ada;
+  font-family: Times New Roman, 'Source Sans Pro';
+  white-space: nowrap;
+}
