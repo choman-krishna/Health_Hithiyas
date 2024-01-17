@@ -33,7 +33,7 @@ HEALTH HITHIYAS is a comprehensive solution designed to address the challenges r
 
 ## Contributors
 
-- John Doe (Project Lead)
-- Jane Smith (Backend Developer)
-- Mark Johnson (Frontend Developer)
-- Emily Davis (UI/UX Designer)
+- Choman K Krishna (Project Lead)
+- Chethana S (Backend Developer)
+- Amish P (Frontend Developer)
+- Ashritha S (UI/UX Designer)
