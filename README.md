@@ -36,4 +36,4 @@ HEALTH HITHIYAS is a comprehensive solution designed to address the challenges r
 - Choman K Krishna (Project Lead)
 - Chethana S (Backend Developer)
 - Amish P (Frontend Developer)
-- Ashritha S (UI/UX Designer)
+- Kavyashree K N (UI/UX Designer)
